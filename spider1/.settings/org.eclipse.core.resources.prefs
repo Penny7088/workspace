@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//spider/downloadwebkit.py=utf-8
+encoding//spider/items.py=utf-8
+encoding//spider/middlewares.py=utf-8
+encoding//spider/pipelines.py=utf-8
+encoding//spider/settings.py=utf-8
+encoding//spider/spiders/data_spider.py=utf-8
+encoding//spider/spiders/data_spider2.py=utf-8
